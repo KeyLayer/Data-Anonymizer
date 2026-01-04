@@ -43,7 +43,7 @@ Transform sensitive data while preserving format, structure, and relationships.
 - Multi-sheet Excel workbooks
 - Large files with automatic chunking
 
-![Processing](images/Anonymize 3.png)
+![Processing](images/Anonymize%203.png)
 
 ### 🔓 **Decrypt Data**
 Restore anonymized data back to original values using encrypted vaults.
@@ -62,7 +62,7 @@ Restore anonymized data back to original values using encrypted vaults.
 ### 🔍 **Vault Lookup**
 Search and retrieve original or anonymized values from encrypted vaults.
 
-![Vault Lookup](images/Vault Lookup1.png)
+![Vault Lookup](images/Vault%20Lookup1.png)
 
 Three powerful lookup modes:
 
@@ -70,12 +70,12 @@ Three powerful lookup modes:
 2. **Reverse Lookup** - Find original value from anonymized
 3. **Global Vault Search** - Search entire vault across all columns and data types
 
-![Vault Lookup Results](images/Vault Lookup2.png)
+![Vault Lookup Results](images/Vault%20Lookup2.png)
 
 ### 🗄️ **Vault Manager**
 Centralized management of all encryption vaults.
 
-![Vault Manager](images/Vault Manager.png)
+![Vault Manager](images/Vault%20Manager.png)
 
 - **Automatic vault discovery** scans output directories
 - **Vault metadata** display (creation date, size, location)
@@ -86,7 +86,7 @@ Centralized management of all encryption vaults.
 ### 🔑 **Key Manager**
 Secure management of decryption keys.
 
-![Key Manager](images/Key Manager.png)
+![Key Manager](images/Key%20Manager.png)
 
 - **Automatic key discovery** finds all decryption keys
 - **Key metadata** display (creation date, size, location)
