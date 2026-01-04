@@ -21,6 +21,7 @@
 Data Anonymizer is a powerful desktop application that enables secure, format-preserving anonymization of sensitive data in CSV and Excel files. Built with enterprise-grade encryption and intelligent data detection, it provides a complete solution for GDPR compliance, test data generation, and secure data sharing.
 
 **All processing happens locally on your machine** - your data never leaves your computer, ensuring maximum privacy and security.
+[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0.17-brightgreen?style=for-the-badge&logo=download)](https://github.com/KeyLayer/Data-Anonymizer/releases/download/V1.0.17/Data.Anonymizer.Setup.exe)
 
 ## ✨ Features
 
@@ -331,6 +332,7 @@ Proprietary software. See [LICENSE](LICENSE) for details.
 **Data Anonymizer Desktop v1.0.0**
 
 Made with ❤️ by KeyLayer
+[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0.17-brightgreen?style=for-the-badge&logo=download)](https://github.com/KeyLayer/Data-Anonymizer/releases/download/V1.0.17/Data.Anonymizer.Setup.exe)
 
 [Website](https://keylayer.com) • [Documentation](docs/) • [Support](mailto:support@keylayer.com)
 
