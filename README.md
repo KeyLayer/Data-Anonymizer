@@ -304,8 +304,8 @@ output/
 ## 💻 System Requirements
 
 - **Operating System:** Windows 10/11, macOS 10.14+, or Linux
-- **Memory:** 4GB RAM minimum (8GB recommended for large files)
-- **Storage:** 500MB for application + space for output files
+- **Memory:** 2GB RAM minimum (4GB recommended for large files)
+- **Storage:** 800MB for application + space for output files
 - **Processor:** 64-bit processor
 
 ## 🔐 Privacy & Security
@@ -316,19 +316,10 @@ output/
 - **Open Algorithms** - Uses industry-standard encryption (NIST-compliant)
 - **Secure by Design** - Encrypted vaults, separate key storage
 
-## 📚 Documentation
-
-- **User Guide** - Comprehensive documentation (coming soon)
-- **API Documentation** - For Python integration
-- **Video Tutorials** - Step-by-step guides (coming soon)
-- **FAQ** - Common questions and answers
-
 ## 🤝 Support
 
 For support, feature requests, or bug reports:
-- **Email:** support@keylayer.com
-- **Documentation:** [User Guide](docs/user-guide.md)
-- **Issues:** [GitHub Issues](https://github.com/yourusername/data-anonymizer/issues)
+- **Email:** sales@keylayer.com
 
 ## 📄 License
 
