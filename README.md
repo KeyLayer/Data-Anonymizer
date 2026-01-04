@@ -143,7 +143,6 @@ Choose from 5 pre-configured profiles optimized for different use cases:
 - **Reversible:** ❌ No
 - **Use cases:** High-volume processing, one-way anonymization
 
-![Configuration](images/Anonymize4.png)
 
 ## 🔧 Anonymization Modes
 
