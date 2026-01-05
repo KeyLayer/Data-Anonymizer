@@ -7,7 +7,7 @@
 **Professional desktop application for format-preserving data anonymization**
 
 [![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
+[![Platform](https://img.shields.io/badge/platform-Windows.svg)]()
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)]()
 
 [Features](#-features) • [Installation](#-installation) • [Quick Start](#-quick-start) 
