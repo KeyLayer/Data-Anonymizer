@@ -8,7 +8,7 @@
 
 [![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)]()
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)]()
+[![Version](https://img.shields.io/badge/version-v1.19-beta.3-green.svg)]()
 
 [Features](#-features) • [Installation](#-installation) • [Quick Start](#-quick-start) 
 
