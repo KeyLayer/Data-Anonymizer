@@ -1,4 +1,4 @@
-# Data Anonymizer Desktop                                                                  <div align="right"> [![Download Now](https://img.shields.io/badge/Download%20Now-latest-brightgreen?style=for-the-badge&logo=download)](https://github.com/KeyLayer/Data-Anonymizer/releases/latest)
+# Data Anonymizer Desktop                                                                  <div align="right"> [![Download Now](https://img.shields.io/badge/Download%20Now-latest-brightgreen?style=for-the-badge&logo=download)](https://github.com/KeyLayer/Data-Anonymizer/releases/latest) 
 
 <div align="center">
 
