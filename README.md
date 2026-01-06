@@ -301,7 +301,7 @@ output/
 
 ## 💻 System Requirements
 
-- **Operating System:** Windows 10/11, macOS 10.14+, or Linux
+- **Operating System:** Windows 10/11
 - **Memory:** 2GB RAM minimum (4GB recommended for large files)
 - **Storage:** 800MB for application + space for output files
 - **Processor:** 64-bit processor
@@ -309,8 +309,8 @@ output/
 ## 🔐 Privacy & Security
 
 - **No Internet Required** - Works completely offline
-- **No Data Collection** - We don't collect or transmit any data
-- **Local Processing** - All operations happen on your machine
+- **Zero Data Collection** - License verification only; your data remain completely private and local.
+- **Local Processing** - All operations happen on your machine.
 - **Open Algorithms** - Uses industry-standard encryption (NIST-compliant)
 - **Secure by Design** - Encrypted vaults, separate key storage
 
