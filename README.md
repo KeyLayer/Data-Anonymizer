@@ -8,7 +8,8 @@
 
 [![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)]()
-[![Version](https://img.shields.io/github/v/release/KeyLayer/Data-Anonymizer?label=version&color=green)](https://github.com/KeyLayer/Data-Anonymizer/releases/tag/v1.19.0-beta)
+[![Version](https://img.shields.io/github/v/release/KeyLayer/Data-Anonymizer?label=version&color=green&include_prereleases)](https://github.com/KeyLayer/Data-Anonymizer/releases/latest)
+
 
 [Features](#-features) • [Installation](#-installation) • [Quick Start](#-quick-start) 
 
