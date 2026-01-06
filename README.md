@@ -329,7 +329,7 @@ Proprietary software. See [LICENSE](LICENSE) for details.
 
 **Data Anonymizer Desktop v1.0.0**
 
-Made with ❤️ by KeyLayer
+
 [![Download Now](https://img.shields.io/badge/Download%20Now-v1.0.17-brightgreen?style=for-the-badge&logo=download)](https://github.com/KeyLayer/Data-Anonymizer/releases/download/V1.0.17/Data.Anonymizer.Setup.exe)
 
 [Website](https://keylayer.com) • [Documentation](docs/) • [Support](mailto:support@keylayer.com)
