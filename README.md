@@ -318,7 +318,7 @@ output/
 ## 🤝 Support
 
 For support, feature requests, or bug reports:
-- **Email:** sales@keylayer.com
+- **Email:** support@keylayer.com
 
 ## 📄 License
 
