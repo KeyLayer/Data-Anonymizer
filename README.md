@@ -293,8 +293,6 @@ output/
 └── 20240101_120000/
     ├── anonymized_files/
     │   └── data.csv              # Your anonymized data
-    ├── original_files/
-    │   └── data.csv              # Backup of originals
     ├── mapping_vault.sqlite      # Encrypted mappings
     ├── decryption_key.json       # ⚠️ Keep secure!
     ├── format_rules_used.json    # Configuration metadata
