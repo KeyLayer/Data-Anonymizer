@@ -329,8 +329,7 @@ Proprietary software. See [LICENSE](LICENSE) for details.
 
 **Data Anonymizer Desktop v1.0.0**
 
-
- [![Download Now](https://img.shields.io/badge/Download%20Now-latest-brightgreen?style=for-the-badge&logo=download)](https://github.com/KeyLayer/Data-Anonymizer/
+[![Download Now](https://img.shields.io/badge/Download%20Now-latest-brightgreen?style=for-the-badge&logo=download)](https://github.com/KeyLayer/Data-Anonymizer/releases/latest)
 
 [Website](https://keylayer.com) • [Documentation](docs/) • [Support](mailto:support@keylayer.com)
 
