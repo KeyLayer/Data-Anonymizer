@@ -211,7 +211,7 @@ Encrypted SQLite databases storing original-to-anonymized mappings:
 JSON files containing vault encryption keys:
 - Generated automatically with each vault
 - Required for decryption operations
-- Should be stored securely and separately from vaults
+- Should be stored securely or use Password Only mode.
 - ⚠️ **Keep these secure** - anyone with the key can decrypt your data
 
 ### **Profiles vs Modes**
