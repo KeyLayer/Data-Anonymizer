@@ -1,4 +1,4 @@
-# Data Anonymizer Desktop                                                                  <div align="right"> [![Download Now](https://img.shields.io/badge/Download%20Now-v1.0.17-brightgreen?style=for-the-badge&logo=download)](https://github.com/KeyLayer/Data-Anonymizer/releases/download/V1.0.17/Data.Anonymizer.Setup.exe)
+# Data Anonymizer Desktop                                                                  <div align="right"> [![Download Now](https://img.shields.io/badge/Download%20Now-latest-brightgreen?style=for-the-badge&logo=download)](https://github.com/KeyLayer/Data-Anonymizer/releases/latest)Data.Anonymizer.Setup.exe)
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 [![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)]()
-[![Version](https://img.shields.io/badge/version-v1.19-beta.3-green.svg)]()
+[![Version](https://img.shields.io/github/v/release/KeyLayer/Data-Anonymizer?label=version&color=green)](https://github.com/KeyLayer/Data-Anonymizer/releases/latest)
 
 [Features](#-features) • [Installation](#-installation) • [Quick Start](#-quick-start) 
 
