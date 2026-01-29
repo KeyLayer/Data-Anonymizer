@@ -17,16 +17,16 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 Data Anonymizer is a powerful desktop application that enables secure, format-preserving anonymization of sensitive data in CSV and Excel files. Built with enterprise-grade encryption and intelligent data detection, it provides a complete solution for GDPR compliance, test data generation, and secure data sharing.
 
 **All processing happens locally on your machine** - your data never leaves your computer, ensuring maximum privacy and security.
 
 
-## ✨ Features
+## Features
 
-### 🔐 **Anonymize Data**
+### **Anonymize Data**
 Transform sensitive data while preserving format, structure, and relationships.
 
 ![Anonymize Workflow](images/Anonymize1.png)
@@ -47,7 +47,7 @@ Transform sensitive data while preserving format, structure, and relationships.
 
 ![Processing](images/Anonymize%203.png)
 
-### 🔓 **Decrypt Data**
+### **Decrypt Data**
 Restore anonymized data back to original values using encrypted vaults.
 
 ![Decrypt Step 1](images/Decrypt1.png)
@@ -61,7 +61,7 @@ Restore anonymized data back to original values using encrypted vaults.
 
 ![Decrypt Step 3](images/Decrypt3.png)
 
-### 🔍 **Vault Lookup**
+### **Vault Lookup**
 Search and retrieve original or anonymized values from encrypted vaults.
 
 ![Vault Lookup](images/Vault%20Lookup1.png)
@@ -74,7 +74,7 @@ Three powerful lookup modes:
 
 ![Vault Lookup Results](images/Vault%20Lookup2.png)
 
-### 🗄️ **Vault Manager**
+### **Vault Manager**
 Centralized management of all encryption vaults.
 
 ![Vault Manager](images/Vault%20Manager.png)
@@ -85,7 +85,7 @@ Centralized management of all encryption vaults.
 - **Vault deletion** with confirmation
 - **Manual vault import** for external vaults
 
-### 🔑 **Key Manager**
+### **Key Manager**
 Secure management of decryption keys.
 
 ![Key Manager](images/Key%20Manager.png)
@@ -96,7 +96,7 @@ Secure management of decryption keys.
 - **Key deletion** with security warnings
 - **Manual key import** for external keys
 
-### 📊 **Dashboard**
+### **Dashboard**
 Central hub with quick access to all features and statistics.
 
 ![Dashboard](images/dashboard.png)
@@ -106,7 +106,7 @@ Central hub with quick access to all features and statistics.
 - **Recent items** display
 - **Feature highlights** and key benefits
 
-## 🎨 Anonymization Profiles
+## Anonymization Profiles
 
 Choose from 5 pre-configured profiles optimized for different use cases:
 
@@ -146,7 +146,7 @@ Choose from 5 pre-configured profiles optimized for different use cases:
 - **Use cases:** High-volume processing, one-way anonymization
 
 
-## 🔧 Anonymization Modes
+## Anonymization Modes
 
 Four transformation strategies for different security and utility requirements:
 
@@ -174,9 +174,9 @@ Four transformation strategies for different security and utility requirements:
 - Maintains referential integrity
 - Non-reversible (one-way)
 
-## 🚀 Quick Start
+## Quick Start
 
-## 📥 Installation
+## Installation
 
 1. **Download** the installer for your platform
 2. **Run** the installer and follow the setup wizard
@@ -193,7 +193,7 @@ Four transformation strategies for different security and utility requirements:
 
 Your anonymized files, vault, and decryption key will be saved in timestamped output folders.
 
-## 📖 Key Concepts
+## Key Concepts
 
 ### **Seeds**
 Seeds make anonymization deterministic:
@@ -220,7 +220,7 @@ JSON files containing vault encryption keys:
 - **Modes** are the underlying transformation algorithms
 - Profiles combine modes with optimal settings for common scenarios
 
-## 🔒 Security Features
+## Security Features
 
 - **Local Processing** - All data stays on your machine
 - **AES-128 Encryption** - Industry-standard vault encryption
@@ -229,7 +229,7 @@ JSON files containing vault encryption keys:
 - **Format-Preserving Encryption** - NIST SP 800-38G compliant FF3-1 algorithm
 - **Secure Key Storage** - Separate key files with access controls
 
-## 📊 Supported Data Types
+## Supported Data Types
 
 Automatically detects and anonymizes:
 
@@ -240,7 +240,7 @@ Automatically detects and anonymizes:
 - **Numeric Data:** Integers, decimals, percentages
 - **Custom Patterns:** User-defined regex patterns
 
-## 🎯 Use Cases
+## Use Cases
 
 ### **GDPR Compliance**
 - Pseudonymize personal data for analytics
@@ -287,7 +287,7 @@ Use existing vaults for consistent anonymization:
 - Incremental data anonymization
 - Shared mappings across projects
 
-## 📁 Output Structure
+## Output Structure
 
 ```
 output/
@@ -300,14 +300,14 @@ output/
     └── validation_report.txt     # Processing summary
 ```
 
-## 💻 System Requirements
+## System Requirements
 
 - **Operating System:** Windows 10/11
 - **Memory:** 2GB RAM minimum (4GB recommended for large files)
 - **Storage:** 800MB for application + space for output files
 - **Processor:** 64-bit processor
 
-## 🔐 Privacy & Security
+## Privacy & Security
 
 - **No Internet Required** - Works completely offline
 - **Zero Data Collection** - License verification only; your data remain completely private and local.
@@ -315,12 +315,12 @@ output/
 - **Open Algorithms** - Uses industry-standard encryption (NIST-compliant)
 - **Secure by Design** - Encrypted vaults, separate key storage
 
-## 🤝 Support
+## Support
 
 For support, feature requests, or bug reports:
 - **Email:** support@keylayer.com
 
-## 📄 License
+## License
 
 Proprietary software. See [LICENSE](LICENSE) for details.
 
