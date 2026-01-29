@@ -6,7 +6,7 @@
 
 **Professional desktop application for format-preserving data anonymization**
 
-[![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](LICENSE.md)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)]()
 [![Version](https://img.shields.io/github/v/release/KeyLayer/Data-Anonymizer?label=version&color=green&include_prereleases)](https://github.com/KeyLayer/Data-Anonymizer/releases/latest)
 
@@ -322,7 +322,7 @@ For support, feature requests, or bug reports:
 
 ## License
 
-Proprietary software. See [LICENSE](LICENSE) for details.
+Proprietary software. See [LICENSE](LICENSE.md) for details.
 
 ---
 
