@@ -11,7 +11,7 @@
 [![Version](https://img.shields.io/github/v/release/KeyLayer/Data-Anonymizer?label=version&color=green&include_prereleases)](https://github.com/KeyLayer/Data-Anonymizer/releases/latest)
 
 
-[Features](#-features) • [Installation](#-installation) • [Quick Start](#-quick-start) 
+[Features](##-features) • [Installation](##-installation) • [Quick Start](##-quick-start) 
 
 </div>
 
